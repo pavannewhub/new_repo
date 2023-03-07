@@ -1,2 +1,7 @@
 hi this is my 1st file
 second line from remote repo
+adding 3rd line from local repo
+adding one more line
+5th line for a.txt
+6th kine for a.txt
+
